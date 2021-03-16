@@ -1,1 +1,2 @@
 Fichero 1
+Nueva linea en ficho1
